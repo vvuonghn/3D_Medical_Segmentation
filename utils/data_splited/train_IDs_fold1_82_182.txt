@@ -79,7 +79,6 @@ BraTS20_Training_343
 BraTS20_Training_158
 BraTS20_Training_259
 BraTS20_Training_151
-BraTS20_Training_366
 BraTS20_Training_338
 BraTS20_Training_107
 BraTS20_Training_136
@@ -203,7 +202,6 @@ BraTS20_Training_089
 BraTS20_Training_247
 BraTS20_Training_105
 BraTS20_Training_268
-BraTS20_Training_150
 BraTS20_Training_090
 BraTS20_Training_239
 BraTS20_Training_145
@@ -276,7 +274,6 @@ BraTS20_Training_082
 BraTS20_Training_368
 BraTS20_Training_336
 BraTS20_Training_266
-BraTS20_Training_357
 BraTS20_Training_362
 BraTS20_Training_242
 BraTS20_Training_004
@@ -293,3 +290,6 @@ BraTS20_Training_202
 BraTS20_Training_282
 BraTS20_Training_256
 BraTS20_Training_241
+BraTS20_Training_086
+BraTS20_Training_316
+BraTS20_Training_106
